@@ -10,6 +10,7 @@
 | GPU            | Gigabyte Radeon RX 6600 XT Gaming OC Pro 8GB                     |
 
 ## Tested on
+- Sequoia (15.x)
 - Sonoma (14.x)
 - Ventura (13.x)
 
