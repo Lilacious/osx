@@ -16,4 +16,4 @@
 
 ## TODO
 - HEVC encoding in Parsec remote desktop currently broken
-- Fixing DRM support(?)
+- Fixing DRM support(?) / Use firebox
