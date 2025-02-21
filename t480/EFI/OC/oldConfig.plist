@@ -2850,7 +2850,7 @@
                     <key>bluetoothInternalControllerInfo</key>
                     <data>AAAAAAAAAAAAAAAAAAA=</data>
                     <key>boot-args</key>
-                    <string>revpatch=sbvmm unfairgva=4 rtcfx_exclude=80-AB hdaverbs=1 amfi=0x80</string>
+                    <string>revpatch=sbvmm unfairgva=4 hdaverbs=1 amfi=0x80</string>
                     <key>csr-active-config</key>
                     <data>AwgAAA==</data>
                     <key>prev-lang:kbd</key>
